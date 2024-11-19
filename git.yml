@@ -6,3 +6,4 @@ tasks:
    yum:
      name: git 
      state: present
+- name: other task
